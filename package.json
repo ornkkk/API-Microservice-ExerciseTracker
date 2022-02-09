@@ -1,0 +1,23 @@
+{
+  "author": "Koushik Kiran Kumar",
+	"name": "API-Microservice-ExerciseTracker",
+	"version": "0.1.0",
+	"description": "A full stack JavaScript app for Exercise Tracker Microservice.",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"cors": "^2.8.5",
+		"dayjs": "^1.10.6",
+		"dotenv": "^8.2.0",
+		"express": "^4.16.4",
+		"mongoose": "^5.13.8"
+	},
+	"license": "MIT",
+	"keywords": [
+		"node",
+		"express"
+	]
+}
